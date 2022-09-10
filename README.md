@@ -1,6 +1,6 @@
 ### Hello , I am Nachiketh K 👋
 
-- 🔭 I’m currently studying at Vellore Institute of Technology.
+- 🔭 I’m currently studying at Purdue University West Lafayette.
 - 🌱 I’m currently learning Machine learning with Python.
 - 🤔 I’m looking for help with Machine learning for data science.
 - 💬 Ask me about Python , C++ , Javascript.
